@@ -1,2 +1,3 @@
 latihan git
 1. menguasai git
+2. alvin uniko
